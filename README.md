@@ -9,7 +9,7 @@ The source code, pretrained weights, and detailed instructions will be released 
 ---
 
 ## 📌 Framework Overview  
-![Framework Overview](assets/framework.png)  
+![Framework Overview](assets/framework.jpg)  
 *Figure 1. Overall architecture of HiFusion.*
 
 ---
