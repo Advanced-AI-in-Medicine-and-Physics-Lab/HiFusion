@@ -24,7 +24,7 @@ By jointly modeling cellular-level features and tissue-level microenvironmental 
 
 ## 📌 Framework Overview
 
-![Framework Overview](assets/framework.jpg)
+![Framework Overview](assets/framework.png)
 
 **Overview of the HiFusion framework.**  
 HiFusion integrates **Hierarchical Intra-Spot Modeling (HISM)** and **Context-Aware Cross-Scale Fusion (CCF)**.  
@@ -105,7 +105,7 @@ Under 3D sample-specific evaluation, HiFusion maintains consistent advantages, a
 
 These results highlight HiFusion’s versatility across distinct evaluation settings and its robustness in spatial transcriptomics inference.
 
-![Results](assets/result.jpg)
+![Results](assets/result.png)
 
 ---
 
@@ -113,9 +113,9 @@ These results highlight HiFusion’s versatility across distinct evaluation sett
 
 HiFusion not only achieves superior quantitative performance but also produces spatially coherent and biologically meaningful gene expression maps. High-expression regions are accurately localized (brighter colors), demonstrating robustness to morphological noise and strong alignment with ground truth.
 
-![Predicted spatial expression](assets/vis_result_1.jpg)
+![Predicted spatial expression](assets/vis_result_1.png)
 
-![Comparison of 2D and 3D Training Paradigms](assets/vis_result_2.jpg)
+![Comparison of 2D and 3D Training Paradigms](assets/vis_result_2.png)
 
 ---
 
