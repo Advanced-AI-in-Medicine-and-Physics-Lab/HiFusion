@@ -1,8 +1,6 @@
-# HiFusion
+# HiFusion: Hierarchical Intra-Spot Alignment and Regional Context Fusion for Spatial Gene Expression Prediction from Histopathology
 
-**[AAAI 2026]**  
-**HiFusion: Hierarchical Intra-Spot Alignment and Regional Context Fusion for Spatial Gene Expression Prediction from Histopathology**  
-📄 [ArXiv Paper](https://arxiv.org/abs/2511.12969)
+**[AAAI 2026]**  📄 [ArXiv Paper](https://arxiv.org/abs/2511.12969)
 
 ---
 
