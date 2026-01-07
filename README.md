@@ -37,11 +37,11 @@ To facilitate reproducibility, we provide processed versions of two public spati
 
 - **HER2 Dataset**  
   - Dataset: (coming soon!)  
-  - Paper: [link]([https://example.com](https://www.nature.com/articles/s41467-021-26271-2))
+  - Paper: [link](https://www.nature.com/articles/s41467-021-26271-2)
 
 - **ST-Data Dataset**  
   - Dataset: (coming soon!)   
-  - Paper: [link]([https://example.com](https://www.nature.com/articles/s41551-020-0578-x))
+  - Paper: [link](https://www.nature.com/articles/s41551-020-0578-x)
 
 > Please download and place the processed datasets under the `data/` directory.
 
