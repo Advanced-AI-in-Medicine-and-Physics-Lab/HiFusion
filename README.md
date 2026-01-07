@@ -24,7 +24,7 @@ By jointly modeling cellular-level features and tissue-level microenvironmental 
 
 ## 📌 Framework Overview
 
-![Framework Overview](assets/framework.png)
+![Framework Overview](assets/framework.jpg)
 
 **Overview of the HiFusion framework.**  
 HiFusion integrates **Hierarchical Intra-Spot Modeling (HISM)** and **Context-Aware Cross-Scale Fusion (CCF)**.  
