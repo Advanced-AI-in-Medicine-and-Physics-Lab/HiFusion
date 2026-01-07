@@ -87,21 +87,25 @@ Lower MSE and MAE indicate better accuracy, while higher PCC reflects stronger c
 
 ## 📈 Results
 
-HiFusion consistently outperforms prior methods on both HER2 and ST-Data datasets under 2D slide-wise and 3D sample-specific evaluations.
+HiFusion consistently outperforms prior methods on both **HER2** and **ST-Data** datasets under **2D slide-wise** and **3D sample-specific** evaluation protocols.
 
-Under 2D slide-wise testing, HiFusion achieves MSE / MAE / PCC scores of 0.5459 / 0.5699 / 0.4961 on HER2, surpassing:
+### 2D Slide-wise Evaluation
 
-TRIPLEX (second-best) by 2.1–2.6%
+On the HER2 dataset, HiFusion achieves **MSE / MAE / PCC = 0.5459 / 0.5699 / 0.4961**, outperforming existing approaches by a clear margin:
 
-ASIGN (previous SOTA) by 2.0–3.7%
+- **TRIPLEX** (second-best): **+2.1–2.6%** improvement  
+- **ASIGN** (previous SOTA): **+2.0–3.7%** improvement  
+- **ST-Net**: over **10% reduction in MSE**
 
-ST-Net by over 10% in MSE
+Consistent performance gains are also observed on **ST-Data**, demonstrating strong robustness to **cross-patient heterogeneity**.
 
-Similar performance gains are observed on ST-Data, demonstrating strong robustness to cross-patient heterogeneity.
+### 3D Sample-specific Evaluation
 
-Under 3D sample-specific evaluation, HiFusion maintains consistent advantages, achieving 22–25% improvement over ST-Net, validating its effectiveness in modeling intra-patient spatial structures.
+Under the more challenging 3D sample-specific setting, HiFusion continues to show clear advantages, achieving **22–25% improvement over ST-Net**.  
+These results validate HiFusion’s effectiveness in modeling **intra-patient spatial structures** and maintaining robust performance across tissue sections.
 
-These results highlight HiFusion’s versatility across distinct evaluation settings and its robustness in spatial transcriptomics inference.
+Overall, the consistent superiority across both evaluation paradigms highlights HiFusion’s **versatility** and **robustness** for spatial transcriptomics inference.
+
 
 ![Results](assets/result.png)
 
